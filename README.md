@@ -6,6 +6,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 - [![agyesam12's GitHub stats](https://github-readme-stats.vercel.app/api?username=agyesam12)](https://github.com/agyesam12/github-readme-stats)
+- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agyesam12)](https://github.com/agyesam12/github-readme-stats)
 
 <!---
 agyesam12/agyesam12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
