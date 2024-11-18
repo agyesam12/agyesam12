@@ -1,10 +1,30 @@
 - 👋 Hi, I’m @agyesam12
-- 👀 I’m a python developer
+- 👀About me
+-  I’m a python developer with almost two years of experience
 - 🌱 I am more into web development ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 am familiar with languages like html,css,javascript, boostrap, python, django,django rest framework, react, c++, sql,java
--  This is my student study portal application https://student-study-portal-agyemangsamuel.up.railway.app
-- ⚡ Fun fact: ...
+- 🚀 Exploring ML and Ai.
+- 💞️you can contact me on linkedin
+
+- 👨🏽‍💻Tech Stack
+- Python/Django/Django-Rest-framework
+- HTML/CSS/Bootstrap
+- JavaScript
+- SqL
+- Postgresql
+- Railway
+- AWS
+-react
+-java
+- 📫
+- Backend
+- Python Django Django-Rest-Framework
+- Frontend
+- html5 css3 javascript bootstrap,react
+- 🚧Open to:
+- Right opportunities on Web Application and website development.
+- ✨Projects built
+-  This is a student study portal application https://student-study-portal-agyemangsamuel.up.railway.app
+- ⚡ Fun fact: The most interesting point in software development is assumming a software issue that will rise in the future and fixing it now ...
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agyesam12&show_icons=true&theme=radical)
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agyesam12)](https://github.com/agyesam12/github-readme-stats)
 
