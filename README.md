@@ -3,7 +3,7 @@
 -  I’m a python developer with almost two years of experience
 - 🌱 I am more into web development ...
 - 🚀 Exploring ML and Ai.
-- 💞️you can contact me on <a href="linkedin.com/AgyemangSamuel">linkedin</a>
+- 💞️you can contact me on <a href="https://www linkedin.com/AgyemangSamuel">linkedin</a>
 
 - 👨🏽‍💻Tech Stack
 - Python/Django/Django-Rest-framework
