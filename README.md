@@ -29,7 +29,9 @@
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agyesam12&show_icons=true&theme=radical)
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agyesam12)](https://github.com/agyesam12/github-readme-stats)
 - [![Top Langs](https://github-readme-stats.vercel.app/api?username=agyesam12&theme=algolia&show_icons=true)](https://github.com/agyesam12)
-- [![Agyemang Samuel's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=agyesam12&hide=html,scss,stylus,blade,jupyter%20notebook,python,css,boostrap,python,django,djangorestframework,javascript,sql,postgresql,aws,c++,react&theme=algolia&show_icons=true)](https://github.com/agyesam12)
+- [![Agyemang Samuel's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=agyesam12&theme=algolia&show_icons=true)](https://github.com/agyesam12)
+- 
+
 
 <!---
 agyesam12/agyesam12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
