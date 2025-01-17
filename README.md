@@ -31,7 +31,7 @@
 - [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agyesam12)](https://github.com/agyesam12/github-readme-stats)
 - [![Top Langs](https://github-readme-stats.vercel.app/api?username=agyesam12&theme=algolia&show_icons=true)](https://github.com/agyesam12)
 - [![Agyemang Samuel's GitHub stats](https://github-readme-stats.vercel.app/api/top-langs?username=agyesam12&theme=algolia&show_icons=true)](https://github.com/agyesam12)
-- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agyesam12e&langs_count=3&hide=html,css&layout=compact)
+- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agyesam12&langs_count=3&hide=html,css&layout=compact)
 
 
 
