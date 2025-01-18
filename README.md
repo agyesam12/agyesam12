@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @agyesam12
 - 👀About me
--  I’m a python developer with almost two years of experience
+-  I’m a python developer with  two years of experience
 - 🌱 I am more into web development ...
 - 🚀 Exploring ML and Ai.
 - 💞️you can contact me on <a href="https://www.linkedin.com/in/agyemang-samuel-0b9b8b334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">linkedin</a>
@@ -13,6 +13,7 @@
 - Postgresql
 - Railway
 - AWS
+- heroku
 -react
 -java
 -c++
