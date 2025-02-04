@@ -25,9 +25,9 @@
 - 🚧Open to:
 - Right opportunities on Web Application and website development.
 - ✨Projects built
--  This is a student study portal application https://student-study-portal-agyemangsamuel.up.railway.app
--  This is library mnagementsystem I built for my school GCTU https://lms-sammykeys-groupsix-afi-955a05c27bea.herokuapp.com/signin/?next=/
--  This is a campus map https://agyesam12.github.io/sneakout-sammykeys/
+-  This is a student study portal < a href="application https://student-study-portal-agyemangsamuel.up.railway.app">Join the Study world</a>
+-  This is library mnagementsystem I built for my school GCTU < a href="https://lms-sammykeys-groupsix-afi-955a05c27bea.herokuapp.com/signin/?next=/">GCTU Library</a>
+-  This is a campus map <a href= "https://agyesam12.github.io/sneakout-sammykeys/">GCTU Map</a>
 -  portfolio <a href = "https://agyesam12.github.io/portfolio/">Watch my Portofolio </a>
 - ⚡ Fun fact: The most interesting point in software development is assumming a software issue that will rise in the future and fixing it now ...
 - ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=agyesam12&show_icons=true&theme=radical)
