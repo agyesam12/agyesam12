@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @agyesam12
 - 👀About me
--  I’m a python developer 
+-  I’m a python developer 3years of experience
 - 🌱 I am more into web development ...
 - Am an API developer
 - Am a system analyst
