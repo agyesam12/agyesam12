@@ -28,6 +28,7 @@
 - 🚧Open to:
 - Right opportunities on Web Application and website development.
 - ✨Projects built
+- Most of the projects are administrative applications so I can't showcase them here
 -  This is a student study portal application <a href="https://student-study-portal-agyemangsamuel.up.railway.app">Join the Study world</a>
 -  This is library mnagementsystem I built for my school GCTU <a href="https://lms-sammykeys-groupsix-afi-955a05c27bea.herokuapp.com/signin/?next=/">GCTU Library</a>
 -  This is a campus map <a href= "https://agyesam12.github.io/sneakout-sammykeys/">GCTU Map</a>
