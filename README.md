@@ -4,7 +4,7 @@
 - 🌱 I am more into web development ...
 - Am an API developer
 - Am a system analyst
-- 🚀 Exploring ML and Ai.
+- 🚀 Exploring ML.
 - 💞️you can contact me on <a href="https://www.linkedin.com/in/agyemang-samuel-0b9b8b334?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">linkedin</a>
 
 - 👨🏽‍💻Tech Stack
@@ -25,6 +25,13 @@
 - Python Django Django-Rest-Framework
 - Frontend
 - html5 css3 javascript bootstrap,react
+- Artifial intelligence
+- Machine Learning (Supervised, Unsupervised, ReinformentLearning)
+- libraries: pandas, numpy, sklearn,etc
+
+- Automation In Python
+- openpyxl,etc
+- 
 - 🚧Open to:
 - Right opportunities on Web Application and website development.
 - ✨Projects built
