@@ -55,7 +55,8 @@
 - 🎨 **Painting Service Platform** – A system for booking and managing painting services.  
 - 🏥 **Hospital Management System** – A hospital application for patient-doctor interactions, scheduling, and record-keeping.  
 - 📖 **Online Library Management System** – A digital solution for managing books, members, and borrowing processes.  
-- ☎ **Contact Management System** – An application for organizing and storing contact information securely.  
+- ☎ **Contact Management System** – An application for organizing and storing contact information securely.
+- 🛒 **Online Shopping Platform** – A full-fledged e-commerce system with user authentication, cart management, and order processing.    
 
 ### **Publicly Available Projects**  
 🚀 **[Student Study Portal](https://student-study-portal-agyemangsamuel.up.railway.app)** – A platform for students to collaborate and learn.  
