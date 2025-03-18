@@ -52,6 +52,10 @@
 - 💰 **Finance Application** – A system for managing financial transactions and records.  
 - ⛪ **Church Management System** – A complete system for handling church branches, donations, services, and more.  
 - 🏨 **Hotel Management System** – A comprehensive solution for hotel reservations and management.  
+- 🎨 **Painting Service Platform** – A system for booking and managing painting services.  
+- 🏥 **Hospital Management System** – A hospital application for patient-doctor interactions, scheduling, and record-keeping.  
+- 📖 **Online Library Management System** – A digital solution for managing books, members, and borrowing processes.  
+- ☎ **Contact Management System** – An application for organizing and storing contact information securely.  
 
 ### **Publicly Available Projects**  
 🚀 **[Student Study Portal](https://student-study-portal-agyemangsamuel.up.railway.app)** – A platform for students to collaborate and learn.  
