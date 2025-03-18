@@ -73,8 +73,6 @@
 
 ---
 
-🔥 This README is **optimized** for clarity, **visually appealing**, and **easy to maintain**. 🚀 Copy and paste it into your `README.md` and let me know if you need any changes! 🚀🔥
-
 <!---
 agyesam12/agyesam12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
