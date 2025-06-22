@@ -54,25 +54,39 @@
 
 ---
 
-## 📌 Featured Projects  
+-📌 Featured Projects
+-🔹 Most of my projects are administrative applications that I can't publicly showcase.
+-🔹 I have built various systems, grouped by domain:
 
-🔹 **Most of my projects are administrative applications that I can't publicly showcase.**  
-🔹 I have built various systems, including:  
-- 💰 **Finance Application** – A system for managing financial transactions and records.  
-- ⛪ **Church Management System** – A complete system for handling church branches, donations, services, and more.  
-- 🏨 **Hotel Management System** – A comprehensive solution for hotel reservations and management.  
-- 🎨 **Painting Service Platform** – A system for booking and managing painting services.  
-- 🏥 **Hospital Management System** – A hospital application for patient-doctor interactions, scheduling, and record-keeping.  
-- 📖 **Online Library Management System** – A digital solution for managing books, members, and borrowing processes.  
-- ☎ **Contact Management System** – An application for organizing and storing contact information securely.
-- 🛒 **Online Shopping Platform** – A full-fledged e-commerce system with user authentication, cart management, and order processing.
-- 💳 **Online Shopping Platform (Pay-in-Bits)** – An e-commerce system where customers can purchase products and pay in installments based on their selected payment plan.
-- 💧 Water Delivery App – A platform for scheduling, managing, and tracking water delivery services.
+-🏦 Finance & Business
+-💰 Finance Application – A system for managing financial transactions and records.
 
--📊 Results Management System – A complete system for managing student results, grading, and performance analytics.
+-💳 Online Shopping Platform (Pay-in-Bits) – An e-commerce system where customers can purchase products and pay in installments based on their selected payment plan.
+
+-🛒 Online Shopping Platform – A full-fledged e-commerce system with user authentication, cart management, and order processing.
+
+-🏥 Healthcare
+-🏥 Hospital Management System – A hospital application for patient-doctor interactions, scheduling, and record-keeping.
 
 -📅 Appointment Booking System – A flexible system for managing service bookings, time slots, and client scheduling.
-- etc    
+
+-⛪ Community & Organization
+-⛪ Church Management System – A complete system for handling church branches, donations, services, and more.
+
+-☎ Contact Management System – An application for organizing and storing contact information securely.
+
+-🏨 Hospitality & Services
+-🏨 Hotel Management System – A comprehensive solution for hotel reservations and management.
+
+-🎨 Painting Service Platform – A system for booking and managing painting services.
+
+-💧 Water Delivery App – A platform for scheduling, managing, and tracking water delivery services.
+
+-🎓 Education
+-📖 Online Library Management System – A digital solution for managing books, members, and borrowing processes.
+
+- 📊 Results Management System – A complete system for managing student results, grading, and performance analytics.
+-etc
 
 ### **Publicly Available Projects**  
 🚀 **[Student Study Portal](https://student-study-portal-agyemangsamuel.up.railway.app)** – A platform for students to collaborate and learn.  
