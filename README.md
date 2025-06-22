@@ -67,6 +67,11 @@
 - ☎ **Contact Management System** – An application for organizing and storing contact information securely.
 - 🛒 **Online Shopping Platform** – A full-fledged e-commerce system with user authentication, cart management, and order processing.
 - 💳 **Online Shopping Platform (Pay-in-Bits)** – An e-commerce system where customers can purchase products and pay in installments based on their selected payment plan.
+- 💧 Water Delivery App – A platform for scheduling, managing, and tracking water delivery services.
+
+-📊 Results Management System – A complete system for managing student results, grading, and performance analytics.
+
+-📅 Appointment Booking System – A flexible system for managing service bookings, time slots, and client scheduling.
 - etc    
 
 ### **Publicly Available Projects**  
