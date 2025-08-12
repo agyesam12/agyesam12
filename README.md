@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Agyemang Samuel
 
-🚀 **Python Developer | API Developer | System Analyst | Machine Learning Enthusiast** | Ethical Hacker**  
+🚀 **Python Developer | API Developer | System Analyst | Machine Learning Enthusiast | Ethical Hacker**  
 
-🔍 Passionate about **Web Development**, **AI/ML**,**Cybersecurity**, and **Automation**.
+🔍 Passionate about **Web Development**, **AI/ML**, **Cybersecurity**, and **Automation**.
 
 ---
 
@@ -29,8 +29,6 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
 
 ### **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
@@ -45,7 +43,6 @@
 ### **Cybersecurity & Ethical Hacking**  
 ![Ethical Hacking](https://img.shields.io/badge/-Ethical%20Hacking-000000?style=for-the-badge&logo=hack-the-box&logoColor=white)  
 ![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)  
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 
 ### **Tools & Others**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
@@ -54,54 +51,60 @@
 
 ---
 
--📌 Featured Projects
+## 📌 Featured Projects
 - 🔹 Most of my projects are administrative applications that I can't publicly showcase.
 - 🔹 I have built various systems, grouped by domain:
 
-- 🏦 Finance & Business
-- 💰 Finance Application – A system for managing financial transactions and records.
+### 🏦 Finance & Business
+- 💰 **Finance Application** – A system for managing financial transactions and records.
+- 💳 **Online Shopping Platform (Pay-in-Bits)** – An e-commerce system where customers can purchase products and pay in installments based on their selected payment plan.
+- 🛒 **Online Shopping Platform** – A full-fledged e-commerce system with user authentication, cart management, and order processing.
 
-- 💳 Online Shopping Platform (Pay-in-Bits) – An e-commerce system where customers can purchase products and pay in installments based on their selected payment plan.
+### 🏥 Healthcare
+- 🏥 **Hospital Management System** – A hospital application for patient-doctor interactions, scheduling, and record-keeping.
+- 📅 **Appointment Booking System** – A flexible system for managing service bookings, time slots, and client scheduling.
 
-- 🛒 Online Shopping Platform – A full-fledged e-commerce system with user authentication, cart management, and order processing.
+### ⛪ Community & Organization
+- ⛪ **Church Management System** – A complete system for handling church branches, donations, services, and more.
+- ☎ **Contact Management System** – An application for organizing and storing contact information securely.
 
-- 🏥 Healthcare
-- 🏥 Hospital Management System – A hospital application for patient-doctor interactions, scheduling, and record-keeping.
+### 🏨 Hospitality & Services
+- 🏨 **Hotel Management System** – A comprehensive solution for hotel reservations and management.
+- 🎨 **Painting Service Platform** – A system for booking and managing painting services.
+- 💧 **Water Delivery App** – A platform for scheduling, managing, and tracking water delivery services.
 
-- 📅 Appointment Booking System – A flexible system for managing service bookings, time slots, and client scheduling.
-
-- ⛪ Community & Organization
-- ⛪ Church Management System – A complete system for handling church branches, donations, services, and more.
-
-- ☎ Contact Management System – An application for organizing and storing contact information securely.
-
-- 🏨 Hospitality & Services
-- 🏨 Hotel Management System – A comprehensive solution for hotel reservations and management.
-
-- 🎨 Painting Service Platform – A system for booking and managing painting services.
-
-- 💧 Water Delivery App – A platform for scheduling, managing, and tracking water delivery services.
-
-- 🎓 Education
-- 📖 Online Library Management System – A digital solution for managing books, members, and borrowing processes.
-
--  📊 Results Management System – A complete system for managing student results, grading, and performance analytics.
--etc
+### 🎓 Education
+- 📖 **Online Library Management System** – A digital solution for managing books, members, and borrowing processes.
+- 📊 **Results Management System** – A complete system for managing student results, grading, and performance analytics.
 
 ### **Publicly Available Projects**  
 🚀 **[Student Study Portal](https://student-study-portal-agyemangsamuel.up.railway.app)** – A platform for students to collaborate and learn.  
 📚 **[Library Management System](https://lms-sammykeys-groupsix-afi-955a05c27bea.herokuapp.com/signin/?next=/)** – A digital system for managing library resources at GCTU.  
 🗺 **[GCTU Campus Map](https://agyesam12.github.io/sneakout-sammykeys/)** – An interactive map of GCTU.  
-🌐 **[Portfolio Website](https://agyesam12.github.io/portfolio/)** – My personal portfolio showcasing my work.
-🎥🎦🎦 modern professional video call application 
-https://video-call-cheat-production.up.railway.app/
+🌐 **[Portfolio Website](https://agyesam12.github.io/portfolio/)** – My personal portfolio showcasing my work.  
+🎥 **[Modern Professional Video Call Application](https://video-call-cheat-production.up.railway.app/)**
+
+---
+
+## 🏆 GitHub Achievements & Stats
+
+### 🦈 Pull Shark & YOLLO Achiever  
+![Pull Shark](https://img.shields.io/badge/🦈%20Pull%20Shark-Earned-blue?style=for-the-badge)
+![YOLLO](https://img.shields.io/badge/🎯%20YOLLO-Achieved-green?style=for-the-badge)
 
 ---
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agyesam12&show_icons=true&theme=algolia)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agyesam12&layout=compact&theme=algolia)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agyesam12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)  
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=agyesam12&theme=algolia)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agyesam12&layout=compact&theme=algolia&langs_count=8)  
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=agyesam12&theme=algolia&no-frame=true&row=1&column=7)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=agyesam12&theme=react-dark&bg_color=20232a&hide_border=true)
 
 ---
 
@@ -116,8 +119,8 @@ https://video-call-cheat-production.up.railway.app/
 - **Backend API Development**  
 - **Machine Learning & AI**  
 - **Automation Projects**
--  **Cybersecurity & Ethical Hacking** 
+- **Cybersecurity & Ethical Hacking** 
 
 ---
 
-
+![Profile Views](https://komarev.com/ghpvc/?username=agyesam12&color=brightgreen&style=flat-square&label=Profile+Views)
