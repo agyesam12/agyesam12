@@ -1,4 +1,4 @@
-```markdown
+
 # 👋 Hi, I'm Agyemang Samuel
 
 🚀 **Python Developer | API Developer | System Analyst | Machine Learning Enthusiast | Ethical Hacker**  
@@ -17,7 +17,7 @@
 - 🔄 **Automation:** Excel (openpyxl), Web Scraping
 - 🛡️ **Cybersecurity & Ethical Hacking:** Python for hacking, Kali Linux for penetration testing  
 
----
+
 
 ## 🛠 Tech Stack  
 
@@ -87,7 +87,7 @@
 🌐 **[Portfolio Website](https://agyesam12.github.io/portfolio/)** – My personal portfolio showcasing my work.  
 🎥 **[Modern Professional Video Call Application](https://video-call-cheat-production.up.railway.app/)**
 
----
+
 
 ## 🏆 GitHub Achievements & Stats
 
@@ -109,13 +109,13 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=agyesam12&theme=react-dark&bg_color=20232a&hide_border=true)
 
----
+
 
 ## 💼 Let's Connect  
 📧 **Email:** agyesam12@gmail.com  
 🌐 **LinkedIn:** [Agyemang Samuel](https://www.linkedin.com/in/agyemang-samuel-0b9b8b334)  
 
----
+
 
 ### 🚀 Open to Collaborations on  
 - **Web Development**  
@@ -127,4 +127,4 @@
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=agyesam12&color=brightgreen&style=flat-square&label=Profile+Views)
-```
+
