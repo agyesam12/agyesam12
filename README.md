@@ -1,3 +1,4 @@
+```markdown
 # 👋 Hi, I'm Agyemang Samuel
 
 🚀 **Python Developer | API Developer | System Analyst | Machine Learning Enthusiast | Ethical Hacker**  
@@ -78,6 +79,8 @@
 - 📊 **Results Management System** – A complete system for managing student results, grading, and performance analytics.
 
 ### **Publicly Available Projects**  
+🔄 **[SwapIt GH](https://swapit-gh.com)** – A comprehensive platform for swapping and exchanging items in Ghana.  
+🔗 **[SwapHub](https://swaphub.up.railway.app)** – A modern hub for item exchanges and swaps.  
 🚀 **[Student Study Portal](https://student-study-portal-agyemangsamuel.up.railway.app)** – A platform for students to collaborate and learn.  
 📚 **[Library Management System](https://lms-sammykeys-groupsix-afi-955a05c27bea.herokuapp.com/signin/?next=/)** – A digital system for managing library resources at GCTU.  
 🗺 **[GCTU Campus Map](https://agyesam12.github.io/sneakout-sammykeys/)** – An interactive map of GCTU.  
@@ -124,3 +127,4 @@
 ---
 
 ![Profile Views](https://komarev.com/ghpvc/?username=agyesam12&color=brightgreen&style=flat-square&label=Profile+Views)
+```
