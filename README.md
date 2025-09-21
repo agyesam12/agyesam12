@@ -108,6 +108,7 @@
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=agyesam12&theme=algolia&no-frame=true&row=1&column=7)
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=agyesam12&theme=react-dark&bg_color=20232a&hide_border=true)
+![stats]https://github-readme-stats-sigma-five.vercel.app/api?username=agyesam12
 
 
 
