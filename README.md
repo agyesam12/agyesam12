@@ -1,4 +1,3 @@
-
 # 👋 Hi, I'm Agyemang Samuel
 
 🚀 **Python Developer | API Developer | System Analyst | Machine Learning Enthusiast | Ethical Hacker**  
@@ -51,7 +50,6 @@
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
 
-
 ## 📌 Featured Projects
 - 🔹 Most of my projects are administrative applications that I can't publicly showcase.
 - 🔹 I have built various systems, grouped by domain:
@@ -97,9 +95,7 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=agyesam12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)  
-
-![GitHub Stats Alternative](https://github-readme-stats-sigma-five.vercel.app/api?username=agyesam12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=agyesam12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=agyesam12&theme=algolia)
 
@@ -124,4 +120,3 @@
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=agyesam12&color=brightgreen&style=flat-square&label=Profile+Views)
-
