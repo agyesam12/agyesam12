@@ -1,11 +1,11 @@
-```markdown
+
 # 👋 Hi, I'm Agyemang Samuel
 
 🚀 **Python Developer | API Developer | System Analyst | Machine Learning Enthusiast | Ethical Hacker**  
 
 🔍 Passionate about **Web Development**, **AI/ML**, **Cybersecurity**, and **Automation**.
 
----
+
 
 ## 👨🏽‍💻 About Me  
 - 🎯 **3+ years** of experience in Python & Web Development  
@@ -17,7 +17,7 @@
 - 🔄 **Automation:** Excel (openpyxl), Web Scraping
 - 🛡️ **Cybersecurity & Ethical Hacking:** Python for hacking, Kali Linux for penetration testing  
 
----
+
 
 ## 🛠 Tech Stack  
 
@@ -50,7 +50,7 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
----
+
 
 ## 📌 Featured Projects
 - 🔹 Most of my projects are administrative applications that I can't publicly showcase.
@@ -87,7 +87,6 @@
 🌐 **[Portfolio Website](https://agyesam12.github.io/portfolio/)** – My personal portfolio showcasing my work.  
 🎥 **[Modern Professional Video Call Application](https://video-call-cheat-production.up.railway.app/)**
 
----
 
 ## 🏆 GitHub Achievements & Stats
 
@@ -95,7 +94,6 @@
 ![Pull Shark](https://img.shields.io/badge/🦈%20Pull%20Shark-Earned-blue?style=for-the-badge)
 ![YOLLO](https://img.shields.io/badge/🎯%20YOLLO-Achieved-green?style=for-the-badge)
 
----
 
 ## 📊 GitHub Stats  
 
@@ -111,13 +109,11 @@
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=agyesam12&theme=react-dark&bg_color=20232a&hide_border=true)
 
----
 
 ## 💼 Let's Connect  
 📧 **Email:** agyesam12@gmail.com  
 🌐 **LinkedIn:** [Agyemang Samuel](https://www.linkedin.com/in/agyemang-samuel-0b9b8b334)  
 
----
 
 ### 🚀 Open to Collaborations on  
 - **Web Development**  
@@ -126,7 +122,6 @@
 - **Automation Projects**
 - **Cybersecurity & Ethical Hacking** 
 
----
 
 ![Profile Views](https://komarev.com/ghpvc/?username=agyesam12&color=brightgreen&style=flat-square&label=Profile+Views)
-```
+
