@@ -101,7 +101,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=agyesam12&theme=algolia)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agyesam12&layout=compact&theme=algolia&langs_count=8)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agyesam12&layout=compact&theme=algolia&langs_count=8&cache_bust=1)  
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=agyesam12&theme=algolia&no-frame=true&row=1&column=7)
 
