@@ -8,7 +8,7 @@
 
 ## 👨🏽‍💻 About Me  
 - 🎯 **3+ years** of experience in Python & Web Development  
-- ⚡ **Backend:** Django, Django Rest Framework (DRF)  
+- ⚡ **Backend:** Django, Django Rest Framework (DRF), **ASP.NET Core**  
 - 🎨 **Frontend:** HTML, CSS, Bootstrap, JavaScript, React  
 - 🛠️ **Databases:** PostgreSQL, MySQL, SQLite, SQL  
 - 🌍 **Cloud & Deployment:** Railway, AWS, Heroku  
@@ -29,6 +29,8 @@
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
 ![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=for-the-badge&logo=dot-net&logoColor=white) 
 
 ### **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
