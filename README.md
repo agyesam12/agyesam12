@@ -95,7 +95,11 @@
 ## 🏆 GitHub Achievements & Stats
 
 ### 📈 GitHub Profile Summary
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=agyesam12&theme=algolia)
+## 📈 GitHub Profile Summary
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=agyesam12&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=agyesam12&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=agyesam12&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=agyesam12&theme=algolia)
 
 ### 🦈 Pull Shark & YOLLO Achiever  
 ![Pull Shark](https://img.shields.io/badge/🦈%20Pull%20Shark-Earned-blue?style=for-the-badge)
