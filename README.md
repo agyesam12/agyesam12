@@ -94,13 +94,6 @@
 
 ## 🏆 GitHub Achievements & Stats
 
-
-## 📈 GitHub Profile Summary
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=agyesam12&theme=algolia)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=agyesam12&theme=algolia)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=agyesam12&theme=algolia)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=agyesam12&theme=algolia)
-
 ### 📈 Professional Experience
 ![Experience](https://img.shields.io/badge/Experience-Senior%20Developer%20(3%2B%20Years)-success?style=for-the-badge&logo=github&logoColor=white)
 ![Projects](https://img.shields.io/badge/Projects-15%2B%20Production%20Systems-blue?style=for-the-badge&logo=github&logoColor=white)
@@ -120,6 +113,20 @@
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=agyesam12&theme=algolia)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agyesam12&layout=compact&theme=algolia&langs_count=8)
+
+</div>
+
+---
+
+## 📈 GitHub Profile Summary
+
+<div align="center">
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=agyesam12&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=agyesam12&theme=algolia)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=agyesam12&theme=algolia)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=agyesam12&theme=algolia)
 
 </div>
 
