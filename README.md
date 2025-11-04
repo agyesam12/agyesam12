@@ -4,7 +4,7 @@
 
 🔍 Passionate about **Web Development**, **AI/ML**, **Cybersecurity**, and **Automation**.
 
----
+
 
 ## 👨🏽‍💻 About Me  
 - 🎯 **3+ years** of experience in Python & Web Development  
@@ -16,7 +16,7 @@
 - 🔄 **Automation:** Excel (openpyxl), Web Scraping
 - 🛡️ **Cybersecurity & Ethical Hacking:** Python for hacking, Kali Linux for penetration testing  
 
----
+
 
 ## 🛠 Tech Stack  
 
@@ -51,11 +51,10 @@
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)  
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
----
 
 ## 📌 Featured Projects
-> 🔹 Most of my projects are administrative applications that I can't publicly showcase.  
-> 🔹 I have built various systems, grouped by domain:
+- 🔹 Most of my projects are administrative applications that I can't publicly showcase.
+- 🔹 I have built various systems, grouped by domain:
 
 ### 🏦 Finance & Business
 - 💰 **Finance Application** – A system for managing financial transactions and records.
@@ -79,9 +78,7 @@
 - 📖 **Online Library Management System** – A digital solution for managing books, members, and borrowing processes.
 - 📊 **Results Management System** – A complete system for managing student results, grading, and performance analytics.
 
----
-
-### 🌟 **Publicly Available Projects**  
+### **Publicly Available Projects**  
 🔄 **[SwapIt GH](https://swapit-gh.com)** – A comprehensive platform for swapping and exchanging items in Ghana.  
 🔗 **[SwapHub](https://swaphub.up.railway.app)** – A modern hub for item exchanges and swaps.  
 🚀 **[Student Study Portal](https://student-study-portal-agyemangsamuel.up.railway.app)** – A platform for students to collaborate and learn.  
@@ -90,81 +87,38 @@
 🌐 **[Portfolio Website](https://agyesam12.github.io/portfolio/)** – My personal portfolio showcasing my work.  
 🎥 **[Modern Professional Video Call Application](https://video-call-cheat-production.up.railway.app/)**
 
----
 
 ## 🏆 GitHub Achievements & Stats
-
-### 📈 Professional Experience
-![Experience](https://img.shields.io/badge/Experience-Senior%20Developer%20(3%2B%20Years)-success?style=for-the-badge&logo=github&logoColor=white)
-![Projects](https://img.shields.io/badge/Projects-15%2B%20Production%20Systems-blue?style=for-the-badge&logo=github&logoColor=white)
 
 ### 🦈 Pull Shark & YOLLO Achiever  
 ![Pull Shark](https://img.shields.io/badge/🦈%20Pull%20Shark-Earned-blue?style=for-the-badge)
 ![YOLLO](https://img.shields.io/badge/🎯%20YOLLO-Achieved-green?style=for-the-badge)
 
----
 
 ## 📊 GitHub Stats  
-
-<div align="center">
 
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=agyesam12&show_icons=true&theme=algolia&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=agyesam12&theme=algolia)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agyesam12&layout=compact&theme=algolia&langs_count=8)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=agyesam12&layout=compact&theme=algolia&langs_count=8&cache_bust=1)  
 
-</div>
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=agyesam12&theme=algolia&no-frame=true&row=1&column=7)
 
----
-
-## 📈 GitHub Profile Summary
-
-<div align="center">
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=agyesam12&theme=algolia)
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=agyesam12&theme=algolia)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=agyesam12&theme=algolia)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=agyesam12&theme=algolia)
-
-</div>
-
----
-
-### 🏅 GitHub Trophies
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=agyesam12&theme=algolia&no-frame=true&row=2&column=4)
-
-</div>
-
----
-
-### 📈 Contribution Activity
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=agyesam12&theme=react-dark&bg_color=20232a&hide_border=true)
 
----
 
 ## 💼 Let's Connect  
-📧 **Email:** [agyesam12@gmail.com](mailto:agyesam12@gmail.com)  
+📧 **Email:** agyesam12@gmail.com  
 🌐 **LinkedIn:** [Agyemang Samuel](https://www.linkedin.com/in/agyemang-samuel-0b9b8b334)  
 
----
 
-## 🚀 Open to Collaborations on  
-- 🌐 **Web Development**  
-- 🔧 **Backend API Development**  
-- 🤖 **Machine Learning & AI**  
-- ⚙️ **Automation Projects**
-- 🔒 **Cybersecurity & Ethical Hacking** 
+### 🚀 Open to Collaborations on  
+- **Web Development**  
+- **Backend API Development**  
+- **Machine Learning & AI**  
+- **Automation Projects**
+- **Cybersecurity & Ethical Hacking** 
 
----
-
-<div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=agyesam12&color=brightgreen&style=flat-square&label=Profile+Views)
-
-**⭐ If you like my work, consider starring my repositories!**
-
-</div>
