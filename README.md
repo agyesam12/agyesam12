@@ -7,7 +7,7 @@
 
 
 ## 👨🏽‍💻 About Me  
-- 🎯 **3+ years** of experience in Python & Web Development  
+- 🎯 **4 years** of experience in Python & Web Development  
 - ⚡ **Backend:** Django, Django Rest Framework (DRF), **ASP.NET Core**  
 - 🎨 **Frontend:** HTML, CSS, Bootstrap, JavaScript, React  
 - 🛠️ **Databases:** PostgreSQL, MySQL, SQLite, SQL  
@@ -82,7 +82,7 @@
 🔄 **[SwapIt GH](https://swapit-gh.com)** – A comprehensive platform for swapping and exchanging items in Ghana.  
 🔗 **[SwapHub](https://swaphub.up.railway.app)** – A modern hub for item exchanges and swaps.  
 🚀 **[Student Study Portal](https://student-study-portal-agyemangsamuel.up.railway.app)** – A platform for students to collaborate and learn.  
-📚 **[Library Management System](https://lms-sammykeys-groupsix-afi-955a05c27bea.herokuapp.com/signin/?next=/)** – A digital system for managing library resources at GCTU.  
+📚 **[Church Management System](https://theatreofsalvation-citadel.up.railway.app)** – A digital system for managing church actives ranging from member ship registration to finance management.  
 🗺 **[GCTU Campus Map](https://agyesam12.github.io/sneakout-sammykeys/)** – An interactive map of GCTU.  
 🌐 **[Portfolio Website](https://agyesam12.github.io/portfolio/)** – My personal portfolio showcasing my work.  
 🎥 **[Modern Professional Video Call Application](https://video-call-cheat-production.up.railway.app/)**
