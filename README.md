@@ -2,7 +2,7 @@
 
 🚀 **Python Developer | API Developer | System Analyst | Machine Learning Enthusiast | Ethical Hacker**  
 
-🔍 Passionate about **Web Development**, **AI/ML**, **Cybersecurity**, and **Automation**.
+🔍 Passionate about **Web Development**, **AI/ML**, **Cybersecurity**, and **Automation Tasks**.
 
 
 
