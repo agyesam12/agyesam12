@@ -111,7 +111,7 @@
 
 ## 💼 Let's Connect  
 📧 **Email:** agyesam12@gmail.com  
-🌐 **LinkedIn:** [Agyemang Samuel](https://www.linkedin.com/in/agyemang-samuel-0b9b8b334)  
+🌐 **LinkedIn:** [Agyemang Samuel](https://www.linkedin.com/in/agyemang-samuel)  
 
 
 ### 🚀 Open to Collaborations on  
