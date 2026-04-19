@@ -1,6 +1,6 @@
-# 👋 Hi, I'm Agyemang Samuel
+u# 👋 Hi, I'm Agyemang Samuel
 
-🚀 **Python Developer | API Developer | System Analyst | Machine Learning Enthusiast | Ethical Hacker**  
+🚀 **Python Developer | API Developer | System Analyst | Machine Learning Enthusiast  
 
 🔍 Passionate about **Web Development**, **AI/ML**, **Cybersecurity**, and **Automation Tasks**.
 
@@ -13,8 +13,7 @@
 - 🛠️ **Databases:** PostgreSQL, MySQL, SQLite, SQL  
 - 🌍 **Cloud & Deployment:** Railway, AWS, Heroku  
 - 🤖 **AI/ML:** Supervised & Unsupervised Learning, Reinforcement Learning  
-- 🔄 **Automation:** Excel (openpyxl), Web Scraping
-- 🛡️ **Cybersecurity & Ethical Hacking:** Python for hacking, Kali Linux for penetration testing  
+- 🔄 **Automation:** Excel (openpyxl), Web Scrapping 
 
 
 
@@ -43,8 +42,7 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)  
 
 ### **Cybersecurity & Ethical Hacking**  
-![Ethical Hacking](https://img.shields.io/badge/-Ethical%20Hacking-000000?style=for-the-badge&logo=hack-the-box&logoColor=white)  
-![Kali Linux](https://img.shields.io/badge/-Kali%20Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)  
+
 
 ### **Tools & Others**  
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)  
