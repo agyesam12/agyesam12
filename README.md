@@ -1,4 +1,4 @@
-u# 👋 Hi, I'm Agyemang Samuel
+👋 Hi, I'm Agyemang Samuel
 
 🚀 **Python Developer | API Developer | System Analyst | Machine Learning Enthusiast  
 
