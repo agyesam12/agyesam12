@@ -41,7 +41,7 @@
 ![Railway](https://img.shields.io/badge/-Railway-12100E?style=for-the-badge&logo=railway&logoColor=white)  
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)  
 
-### **Cybersecurity & Ethical Hacking**  
+### **Cybersecurity**  
 
 
 ### **Tools & Others**  
@@ -117,7 +117,7 @@
 - **Backend API Development**  
 - **Machine Learning & AI**  
 - **Automation Projects**
-- **Cybersecurity & Ethical Hacking** 
+- **Cybersecurity** 
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=agyesam12&color=brightgreen&style=flat-square&label=Profile+Views)
