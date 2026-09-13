@@ -1,6 +1,6 @@
 👋 Hi, I'm Agyemang Samuel
 
-🚀 **Python Developer | API Developer | System Analyst | Machine Learning Enthusiast  
+🚀 **Python Developer | API Developer | System Analyst | Machine Learning Enthusiast**
 
 🔍 Passionate about **Web Development**, **AI/ML**, **Cybersecurity**, and **Automation Tasks**.
 
@@ -9,11 +9,11 @@
 ## 👨🏽‍💻 About Me  
 - 🎯 **5 years** of experience in Python & Web Development  
 - ⚡ **Backend:** Django, Django Rest Framework (DRF), **ASP.NET Core**  
-- 🎨 **Frontend:** HTML, CSS, Bootstrap, JavaScript, React  
+- 🎨 **Frontend & Mobile:** React, Flutter, HTML, CSS, Bootstrap, JavaScript  
 - 🛠️ **Databases:** PostgreSQL, MySQL, SQLite, SQL  
 - 🌍 **Cloud & Deployment:** Railway, AWS, Heroku  
 - 🤖 **AI/ML:** Supervised & Unsupervised Learning, Reinforcement Learning  
-- 🔄 **Automation:** Excel (openpyxl), Web Scrapping 
+- 🔄 **Automation:** Excel (openpyxl), Web Scraping  
 
 
 
@@ -23,13 +23,15 @@
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)  
 ![Django REST](https://img.shields.io/badge/-Django%20Rest%20Framework-ff1709?style=for-the-badge&logo=django&logoColor=white)  
+![Dart](https://img.shields.io/badge/-Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)  
+![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)  
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=white)  
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
 ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
-![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=for-the-badge&logo=dot-net&logoColor=white) 
+![C#](https://img.shields.io/badge/-C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)  
+![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-512BD4?style=for-the-badge&logo=dot-net&logoColor=white)  
 
 ### **Databases**  
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)  
@@ -78,10 +80,9 @@
 
 ### **Publicly Available Projects**  
 🔄 **[SwapIt GH](https://swapit-gh.com)** – A comprehensive platform for swapping and exchanging items in Ghana.  
-🎥 **[Latest Video call App](https://sammykeys-video-app.up.railway.app)** - A platform where peers can make comfortable video calls and connect .
-
+🎥 **[Latest Video call App](https://sammykeys-video-app.up.railway.app)** - A platform where peers can make comfortable video calls and connect.  
 🚀 **[Student Study Portal](https://student-study-portal-agyemangsamuel.up.railway.app)** – A platform for students to collaborate and learn.  
-📚 **[Church Management System](https://theatreofsalvation-citadel.up.railway.app)** – A digital system for managing church actives ranging from member ship registration to finance management.  
+📚 **[Church Management System](https://theatreofsalvation-citadel.up.railway.app)** – A digital system for managing church activities ranging from membership registration to finance management.  
 🗺 **[GCTU Campus Map](https://agyesam12.github.io/sneakout-sammykeys/)** – An interactive map of GCTU.  
 🌐 **[Portfolio Website](https://agyesam12.github.io/portfolio/)** – My personal portfolio showcasing my work.  
 🎥 **[Modern Professional Video Call Application](https://video-call-cheat-production.up.railway.app/)**
@@ -113,11 +114,11 @@
 
 
 ### 🚀 Open to Collaborations on  
-- **Web Development**  
+- **Web & Mobile Development**  
 - **Backend API Development**  
 - **Machine Learning & AI**  
-- **Automation Projects**
-- **Cybersecurity** 
+- **Automation Projects**  
+- **Cybersecurity**  
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=agyesam12&color=brightgreen&style=flat-square&label=Profile+Views)
